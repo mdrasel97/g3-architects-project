@@ -193,7 +193,11 @@
 .sponsors img:hover{
     filter: grayscale(0%)
 }
-
+/* footer */
+footer{
+    background-color: #FFF4E7;
+    padding: 40px 0px;
+}
 
 /* mobile device responsive */
 @media all and (max-width: 576px) {
