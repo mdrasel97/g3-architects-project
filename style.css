@@ -22,7 +22,7 @@
     font-family: Work Sans;
     font-size: 3rem;
     font-weight: 700;
-    line-height: 50px;
+    line-height: 55px;
     text-align: center;
 }
 .hadding_secendary{
@@ -128,6 +128,10 @@
 }
 
 /* Features you will love & enjoy */
+.features{
+    gap: 100px;
+
+}
 .features_text_content{
     width: 65%;
 }
@@ -137,6 +141,25 @@
 }
 .features_img_content img{
     width: 100%;
+}
+.features_card_container{
+    border: 1px solid #FF900E;
+    border-radius: 8px;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+    background: rgb(255, 255, 255);
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.features_img_content button{
+    padding: 40px;
+    margin-left: -80px;
+    margin-top: -100px;
+}
+#year_btn{
+    font-size: 2.50rem;
+}
+#Experience_btn{
+    font-size: 1rem;
 }
 
 
