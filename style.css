@@ -128,8 +128,16 @@
 }
 
 /* Features you will love & enjoy */
-
-
+.features_text_content{
+    width: 65%;
+}
+#features_hadding{
+    border-left: 3px solid #FF900E;
+    padding-left: 10px;
+}
+.features_img_content img{
+    width: 100%;
+}
 
 
 /* mobile device responsive */
