@@ -224,7 +224,7 @@ footer{
     }
     .some_facts_card_container{
         grid-template-columns: repeat(1, 1fr);
-        gap: 10px;
+        gap: 20px;
     }
     .some_facts_card{
         padding: 20px 30px;
@@ -240,7 +240,7 @@ footer{
 /* tablet device responsive */
 @media all and (max-width: 768px) {
     .some_facts_card_container{
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(1, 1fr);
     }
     
 }
